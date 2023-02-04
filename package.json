@@ -1,0 +1,23 @@
+{
+  "name": "myrepository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkilMomin11/myRepository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkilMomin11/myRepository/issues"
+  },
+  "homepage": "https://github.com/AkilMomin11/myRepository#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
